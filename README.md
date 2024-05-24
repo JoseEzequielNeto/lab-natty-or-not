@@ -3,7 +3,7 @@
 ## 📒 Descrição
 Este ebook, intitulado "Deepfakes: Entre a Realidade e a Ilusão", explora o intrigante mundo dos deepfakes. O projeto visa fornecer uma visão abrangente sobre a história e evolução dos deepfakes, as tecnologias que possibilitam sua criação, e os impactos sociais e econômicos que eles trazem. Além disso, o ebook discute métodos eficazes para detectar e combater deepfakes, destacando também suas aplicações positivas no entretenimento e na acessibilidade. Com uma abordagem informativa e acessível, o objetivo é educar o público sobre os riscos e benefícios dessa poderosa tecnologia, promovendo uma navegação segura e consciente no futuro digital.
 
-<a href="https://web.dio.me/articles/inteligencia-artificial-e-mineracao-de-dados-novas-fronteiras-na-siderurgia?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o ebook</a>
+<a href="https://github.com/JoseEzequielNeto/lab-natty-or-not/blob/main/ebook%20deepfakes.pdf" title="View PDF now"> 📕Clique aqui para ler o ebook</a>
 
 ## 🤖 Tecnologias Utilizadas
 
